@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @InCoderWeb
+- 👋 Hi, I’m @AshutoshTiwari
 - 👀 I’m interested in playing cricket 🏏, riding bicycle🚴‍♀️.
 - 🌱 I’m currently learning React JS.
 - 📫 You can contact me via E-mail.
