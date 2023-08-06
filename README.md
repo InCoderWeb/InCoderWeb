@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshutoshTiwari
 - 👀 I’m interested in playing cricket 🏏, riding bicycle🚴‍♀️.
-- 🌱 I’m currently learning React JS.
+- 🌱 I’m currently learning Next JS.
 - 📫 You can contact me via E-mail.
 - My E-mail is ashutoshtiwary2021@gmail.com
 
