@@ -17,8 +17,8 @@
 <a href="https://dev.to/incoderweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="incoderweb" height="30" width="40" /></a>
 <a href="https://twitter.com/incoderweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="incoderweb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/incoderweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="incoderweb" height="30" width="40" /></a>
-<a href="https://fb.com/incoderweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="incoderweb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/incoderweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="incoderweb" height="30" width="40" /></a>
+<a href="https://facebook.com/incoderweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="incoderweb" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@incoderweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="incoderweb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
