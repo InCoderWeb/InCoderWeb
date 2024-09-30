@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Tiwari</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **stickIt**
+- 🔭 I’m currently working on **Some Cool Projects**.
 
 - 🌱 I’m currently learning **NextJS**
 
